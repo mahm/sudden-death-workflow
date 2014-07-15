@@ -1,5 +1,4 @@
 「突然の死」Workflow ([Download](https://raw.github.com/mahm/sudden-death-workflow/master/SuddenDeath.alfredworkflow))
-
 =====================
 
 ## Requirements
