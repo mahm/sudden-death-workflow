@@ -2,7 +2,7 @@
 class String
   class SuddenDeath
     def initialize(str)
-      @str = str.dup.force_encoding('utf-8')
+      @str = str.dup.encode('UTF-8', 'UTF-8-MAC')
     end
 
     def to_s
